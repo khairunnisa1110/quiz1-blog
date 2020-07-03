@@ -5,7 +5,7 @@
 	<h3>Data Album</h3>
 
 	<table class="table">
-		<thead class="table table-striped table-danger">
+		<thead class="table table-striped table-dark">
 		<tr>
 			<th scope="col">ID</th>
 			<th scope="col">PHOTO ID</th>

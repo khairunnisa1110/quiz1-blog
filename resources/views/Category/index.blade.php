@@ -24,7 +24,7 @@
 				<form action="{{ url('category/' . $row->cat_id)}}" method="post" class="d-inline">
 					<input name="_method" type="hidden" value="delete">
 					@csrf
-					<button class="badge badge-danger">DELETE</button>
+					<button class="badge badge-info">DELETE</button>
 				</form>
 			</td>
 		</tr>
